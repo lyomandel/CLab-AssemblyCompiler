@@ -1,0 +1,33 @@
+
+
+Compiling to file :
+
+test_errors.as
+ERROR line 3 : invalid command name 
+ERROR line 6 : invalid paramters 
+ERROR line 7 : invalid operand method 
+ERROR line 9 : invalid second operand method 
+ERROR line 10 : a label can contain only letters and numbers 
+ERROR line 12 : symbol already defined 
+ERROR line 13 : invalid comma 
+ERROR line 16 : symbol already defined 
+ERROR line 17 : invalid first operand method 
+ERROR line 18 : invalid symbol 
+ERROR line 19 : invalid operands 
+ERROR line 20 : invalid comma 
+ERROR line 21 : a label can contain only letters and numbers 
+ERROR line 21 : operand syntax error 
+ERROR line 22 : immediate operand without a number 
+ERROR line 25 : invalid comma 
+ERROR line 28 : invalid paramters 
+ERROR line 29 : a label must begin with an alphabetic letter 
+ERROR line 29 : operand syntax error 
+ERROR line 30 : invalid operand method 
+ERROR line 32 : invalid symbol 
+ERROR line 33 : invalid string 
+ERROR line 34 : symbol too long 
+ERROR line 35 : invalid command name 
+ERROR line 37 : external symbol already defined as another type 
+
+Compilation Failed! 
+
